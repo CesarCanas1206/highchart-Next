@@ -132,11 +132,11 @@ function Hero() {
             component="a"
             target="_blank"
             rel="noopener"
-            href="https://bloomui.com/product/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard/"
+            href="https://github.com/Oskar0112"
             size="large"
             variant="text"
           >
-            Key Features
+            GitHub
           </Button>
           <Grid container spacing={3} mt={5}>
             <Grid item md={4}>

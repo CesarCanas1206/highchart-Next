@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://bloomui.com" title="BloomUI.com">
+    <a href="https://github.com/Oskar0112" title="Oskar0112">
         <img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-logo.png" alt="Financial Typescript Next.js Admin Dashboard">
     </a>
 </p>
 <h1 align="center">
     <b>Financial Typescript Next.js Admin Dashboard</b>
     <br>
-    <a href="https://twitter.com/intent/tweet?url=https://bloomui.com&text=I like this Next.js admin dashboard">
+    <a href="https://twitter.com/intent/tweet?url=https://github.com/Oskar0112&text=I like this Next.js admin dashboard">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
 </h1>
@@ -15,10 +15,10 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<a href="https://bloomui.com/product/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard/"><img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard.jpg" /></a>
+<a href="https://github.com/Oskar0112/product/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard/"><img src="https://bloomui.s3.us-east-2.amazonaws.com/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard.jpg" /></a>
 </div>
 
-<a href="https://bloomui.com/product/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard/"><h3>Free Material-UI Next.js Typescript Dashboard Template with Dark Color Scheme</h3></a>
+<a href="https://github.com/Oskar0112/product/tokyo-free-black-nextjs-typescript-material-ui-admin-dashboard/"><h3>Free Material-UI Next.js Typescript Dashboard Template with Dark Color Scheme</h3></a>
 <p>
     Financial Next.js Typescript Dashboard is built using the latest industry standards and features a clean and premium design style, making use of colors and accents to improve the user experience for all included flows and pages.
 </p>
@@ -35,7 +35,7 @@ To discover all the features that this free React admin template has to offer, w
 ---
 <h3>Updrade to PRO</h3>
 
-<p>The premium version of this template comes with a lot more components, features and options making it a very powerful friend in your development endeavors. You can download a copy of it from <a href="https://bloomui.com">bloomui.com</a></p>
+<p>The premium version of this template comes with a lot more components, features and options making it a very powerful friend in your development endeavors. You can download a copy of it from <a href="https://github.com/Oskar0112">Oskar0112</a></p>
 
 ---
 

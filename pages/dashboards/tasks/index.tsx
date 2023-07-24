@@ -113,7 +113,8 @@ function DashboardTasks() {
 
   const tabs = [
     { value: 'analytics', label: 'Analytics Overview' },
-    { value: 'taskSearch', label: 'Task Search' }
+    { value: 'taskSearch', label: 'Task Search' },
+    { value: 'testContainer', label: 'Task testContainer' }
   ];
 
   const handleTabsChange = (_event: ChangeEvent<{}>, value: string): void => {

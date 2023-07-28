@@ -23,6 +23,7 @@ import Projects from '@/content/Dashboards/Tasks/Projects';
 import Checklist from '@/content/Dashboards/Tasks/Checklist';
 import Profile from '@/content/Dashboards/Tasks/Profile';
 import TaskSearch from '@/content/Dashboards/Tasks/TaskSearch';
+import TestContainder from '@/content/Dashboards/Tasks/TestContainser';
 
 const TabsContainerWrapper = styled(Box)(
   ({ theme }) => `
@@ -215,6 +216,13 @@ function DashboardTasks() {
               <Grid item xs={12}>
                 <Box p={4}>
                   <TaskSearch />
+                </Box>
+              </Grid>
+            )}
+            {currentTab === 'testContainer' && (
+              <Grid item xs={12}>
+                <Box p={4}>
+                  <TestContainder />
                 </Box>
               </Grid>
             )}
